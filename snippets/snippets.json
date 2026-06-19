@@ -1,0 +1,131 @@
+{
+  "Lorem Ipsum": {
+    "prefix": "lorem",
+    "body": [
+      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo debitis incidunt sequi quam, nihil neque iusto eaque dolorum repudiandae temporibus facere esse quaerat. Quisquam optio repellendus impedit hic, cum magni.$0"
+    ],
+    "description": "Standard Lorem Ipsum paragraph (30 words)"
+  },
+  "Lorem Ipsum - 1 word": {
+    "prefix": "lorem1",
+    "body": ["Lorem.$0"],
+    "description": "1 word of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 2 words": {
+    "prefix": "lorem2",
+    "body": ["Lorem ipsum.$0"],
+    "description": "2 words of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 3 words": {
+    "prefix": "lorem3",
+    "body": ["Lorem ipsum dolor.$0"],
+    "description": "3 words of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 4 words": {
+    "prefix": "lorem4",
+    "body": ["Lorem ipsum dolor sit.$0"],
+    "description": "4 words of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 5 words": {
+    "prefix": "lorem5",
+    "body": ["Lorem ipsum dolor sit amet.$0"],
+    "description": "5 words of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 10 words": {
+    "prefix": "lorem10",
+    "body": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, autem.$0"
+    ],
+    "description": "10 words of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 20 words": {
+    "prefix": "lorem20",
+    "body": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae exercitationem quae voluptates hic sunt sit libero eaque nisi eos minima.$0"
+    ],
+    "description": "20 words of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 30 words": {
+    "prefix": "lorem30",
+    "body": [
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos quidem libero, explicabo quibusdam dicta quasi maxime minus qui animi rerum repudiandae non quisquam officia saepe assumenda harum. Facere, placeat aliquam!$0"
+    ],
+    "description": "30 words of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 40 words": {
+    "prefix": "lorem40",
+    "body": [
+      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias quos debitis consequatur ipsa repellendus tempora ea, ipsum saepe earum labore! Adipisci, est quae neque consequatur suscipit dolorum ad deleniti cumque molestias voluptates fugiat, alias odit porro voluptate quidem quam officiis.$0"
+    ],
+    "description": "40 words of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 50 words": {
+    "prefix": "lorem50",
+    "body": [
+      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Temporibus quidem ipsam natus voluptatibus dolor voluptatem culpa facilis, quam ullam, nesciunt, labore ratione expedita hic. Quae ut error neque labore inventore saepe debitis blanditiis quia quibusdam doloribus provident et voluptate, dolorem deserunt enim a! Tempora ipsam reprehenderit doloremque eos. Similique, libero!$0"
+    ],
+    "description": "50 words of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 100 words": {
+    "prefix": "lorem100",
+    "body": [
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur provident quasi quae, voluptate velit sapiente beatae sequi doloremque. Nisi nam porro, laboriosam delectus debitis minus suscipit explicabo eius tempore in unde, cumque quae vitae est rerum quam ducimus officia repudiandae sint soluta ad minima. Fuga, aliquam libero. Quod tempora error incidunt deserunt quis, dolore ducimus nobis architecto dolorem optio debitis, eum explicabo dignissimos eveniet officiis. Voluptas ipsam doloribus dicta natus iusto distinctio aut aperiam. Natus, mollitia nisi. Iure nam quibusdam culpa modi provident blanditiis, earum cum magnam expedita tempora consectetur vitae incidunt reprehenderit assumenda dolores exercitationem nobis repudiandae maiores inventore.$0"
+    ],
+    "description": "100 words of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 1 paragraph": {
+    "prefix": "lorem1p",
+    "body": [
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.$0"
+    ],
+    "description": "1 paragraph of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 2 paragraphs": {
+    "prefix": "lorem2p",
+    "body": [
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.$0"
+    ],
+    "description": "2 paragraphs of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 3 paragraphs": {
+    "prefix": "lorem3p",
+    "body": [
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.$0"
+    ],
+    "description": "3 paragraphs of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 4 paragraphs": {
+    "prefix": "lorem4p",
+    "body": [
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.$0"
+    ],
+    "description": "4 paragraphs of Lorem Ipsum"
+  },
+  "Lorem Ipsum - 5 paragraphs": {
+    "prefix": "lorem5p",
+    "body": [
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.",
+      "",
+      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.$0"
+    ],
+    "description": "5 paragraphs of Lorem Ipsum"
+  }
+}
